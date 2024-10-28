@@ -1,3 +1,3 @@
-module github.com/abrahamkifleT/investment-calculator.git
+module example.com/investment-calculator.git
 
 go 1.22.2
